@@ -14,6 +14,13 @@ Three layers, one machine:
 
 Early development. Architecture being prototyped.
 
+## The playlist
+
+The official llamaXia playlist on YouTube — the sound of the build:
+https://www.youtube.com/playlist?list=PLCkhxoFgwVbk
+
+First tracks in: Falling In Reverse — "God Is A Weapon (feat. Marilyn Manson)" and Majestic Sounds Radio (24/7 live radio).
+
 ## Ownership
 
 All rights reserved. Created by meta4ickly-ux.

@@ -21,6 +21,13 @@ https://www.youtube.com/playlist?list=PLCkhxoFgwVbk
 
 First tracks in: Falling In Reverse — "God Is A Weapon (feat. Marilyn Manson)" and Majestic Sounds Radio (24/7 live radio).
 
+## Research directions
+
+- **Next-Concept Modeling (NCM)** — Stanford / Together AI hierarchical generation: sketch first, words last, instead of one token at a time. Interesting for local agent brains because it cuts weight reads (the VRAM bottleneck) instead of just adding compute.
+  - Paper: https://arxiv.org/abs/2610.14162
+  - Code: https://github.com/HazyResearch/ncm
+  - Status: watching, not wired in — the released code is evaluation-only, CUDA-only, and the web-text checkpoint is not usable yet.
+
 ## Ownership
 
 All rights reserved. Created by meta4ickly-ux.

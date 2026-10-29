@@ -28,6 +28,10 @@ First tracks in: Falling In Reverse — "God Is A Weapon (feat. Marilyn Manson)"
   - Code: https://github.com/HazyResearch/ncm
   - Status: watching, not wired in — the released code is evaluation-only, CUDA-only, and the web-text checkpoint is not usable yet.
 
+## Inspiration
+
+Tina Huang — ex-Meta data scientist, YouTuber, founder of Lonely Octopus. Motto: "Always minimize effort and maximize outcome!" — the same spirit as maxxEFF, and a guide for building the team: minimum effort, maximum outcome.
+
 ## Ownership
 
 All rights reserved. Created by meta4ickly-ux.
